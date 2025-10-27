@@ -8,10 +8,10 @@
     "version": "next",
     "name": "x402 Agent Mint",
     "iconUrl": "https://x402-agent-mint.vercel.app/icon.png",
-    "homeUrl": "https://x402-agent-mint.vercel.app",
+    "homeUrl": "https://app-e34882aa-kwh2.vercel.app",
     "splashImageUrl": "https://x402-agent-mint.vercel.app/splash.png",
     "splashBackgroundColor": "#0a1929",
-    "webhookUrl": "https://x402-agent-mint.vercel.app/api/webhook",
+    "webhookUrl": "https://app-e34882aa-kwh2.vercel.app/api/webhook",
     "subtitle": "AI-powered social token minting",
     "description": "Mint tokens on Base, gated by social criteria and AI agents. Gasless, social, and permissioned.",
     "screenshotUrls": [
@@ -20,7 +20,14 @@
       "https://x402-agent-mint.vercel.app/screenshot3.png"
     ],
     "primaryCategory": "social",
-    "tags": ["x402", "agent", "mint", "base", "social", "gasless"],
+    "tags": [
+      "x402",
+      "agent",
+      "mint",
+      "base",
+      "social",
+      "gasless"
+    ],
     "heroImageUrl": "https://x402-agent-mint.vercel.app/og-image.png",
     "tagline": "Mint tokens with AI-powered social gating",
     "ogTitle": "x402 Agent Mint",
